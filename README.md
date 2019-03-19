@@ -2,9 +2,12 @@
 Segmenting image and finding superpixels
 
 Initial image:
+![Jermuk](https://user-images.githubusercontent.com/4995697/54623312-b687c380-4a84-11e9-911e-dd1ea7069624.png)
 
-![Jermuk](https://user-images.githubusercontent.com/4995697/54622880-dc609880-4a83-11e9-9d87-2586e882cb5a.png)
+Result with 36 superpixels:
 
-Result image:
+![result_36](https://user-images.githubusercontent.com/4995697/54623320-b982b400-4a84-11e9-8493-43d6d4318112.jpg)
 
-![result](https://user-images.githubusercontent.com/4995697/54623024-234e8e00-4a84-11e9-869d-733137f20083.jpg)
+Result with 100 superpixels:
+
+![result_100](https://user-images.githubusercontent.com/4995697/54623327-bb4c7780-4a84-11e9-8db3-dfb7a515f5fc.jpg)
